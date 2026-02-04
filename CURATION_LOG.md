@@ -55,3 +55,19 @@ Hourly curation activity tracking.
 - **Archive ID**: archive-51f6e1de-5f46-4c3a-907d-c06ddccfc629
 - **Notes**: Archive contains full Letta docs as passages (one page = one passage)
 - Added 'Avoid tag search' guidance to documentation_search_guide
+
+### 20:55 UTC - Block Sharing Complete
+- **Sleeptime disabled** on ezra-prime
+- **discord_users detached** from prime
+- **27 blocks shared** from curator -> prime:
+  - common_issues, letta_troubleshooting_tree, letta_edge_cases
+  - developer_pain_points, knowledge_gaps, letta_code_knowledge
+  - team_philosophy, letta_deployment_modes, faq, letta_integrations
+  - letta_api_patterns, letta_memory_systems, api_integration_patterns
+  - current_models, tool_use_guidelines, letta_agent_lifecycle
+  - response_guidelines, policies, communication_guidelines
+  - observations, persona, persona_core, ignore_policies
+  - forum_info, github_issue_policies, archival_memory_policy, research_plan
+- **Prime-only blocks kept**: /note_directory, /references/lettabot, documentation_links, skills, loaded_skills, subconscious_channel
+- **Already shared**: system_note, documentation_search_guide
+- **Architecture**: Curator manages shared memory, Prime reads
