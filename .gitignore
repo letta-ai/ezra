@@ -1,0 +1,25 @@
+# User information - never commit
+users/
+profiles/
+*.user.json
+*_user_*.md
+
+# Conversation logs and personal data
+conversations/
+logs/
+*.log
+
+# Secrets and credentials
+.env
+*.key
+*.pem
+secrets/
+
+# Temporary files
+*.tmp
+*.bak
+.DS_Store
+
+# Node/build artifacts
+node_modules/
+dist/
