@@ -97,8 +97,17 @@ All blocks attached to both agents. Curator manages updates.
 3. **Later**: Full block sharing with ezra-prime
 4. **Future**: Consider bidirectional learning patterns
 
+## Archival Strategy
+
+**Location:** `/data/ezra/archives/YYYY-MM/`
+**Format:** Markdown files organized by type
+- `deduplicated-content.md` - duplicate entries removed from blocks
+- `resolved-bugs.md` - bugs that are fixed and no longer relevant
+- `old-corrections.md` - historical corrections superseded by documentation
+
+**Decision (Cameron, Feb 4):** Git-only archival. Letta archival memory is dated and not helpful.
+
 ## Open Questions
 
 - How to handle conflicts if ezra-prime's context has stale block data mid-conversation?
 - Should corrections be applied immediately or batched?
-- Archival strategy for blocks near capacity?
