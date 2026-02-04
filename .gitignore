@@ -23,3 +23,4 @@ secrets/
 # Node/build artifacts
 node_modules/
 dist/
+skills/ezra-monitor/data/
