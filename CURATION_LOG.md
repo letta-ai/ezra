@@ -71,3 +71,17 @@ Hourly curation activity tracking.
 - **Prime-only blocks kept**: /note_directory, /references/lettabot, documentation_links, skills, loaded_skills, subconscious_channel
 - **Already shared**: system_note, documentation_search_guide
 - **Architecture**: Curator manages shared memory, Prime reads
+
+### 23:11 UTC - Additional Cleanup
+- `letta_integrations`: Updated subagent support (Dec 4 → Dec 18), condensed voice section
+- `knowledge_gaps`: Removed obsolete BYOK discrepancy (now free tier supports BYOK)
+- `letta_agent_lifecycle`: Removed verbose V2 architecture description (now standard)
+
+Current block status (>80%):
+- tool_use_guidelines: 97%
+- common_issues: 92%
+- communication_guidelines: 92%
+- letta_memory_systems: 89%
+- letta_deployment_modes: 88%
+- knowledge_gaps: 88%
+- response_guidelines: 88%
