@@ -47,3 +47,10 @@ Hourly curation activity tracking.
 - **Saved**: 710 chars
 - **Changes**: Removed duplicate Community Tools and lettactl sections
 - **Archived to**: archives/2026-02/deduplicated-content.md
+
+### 19:48 UTC - Documentation Search Guide
+- **Created**: `documentation_search_guide` block
+- **Attached to**: ezra-prime and ezra-curator (both)
+- **Content**: Guide for searching letta-docs archive efficiently
+- **Archive ID**: archive-51f6e1de-5f46-4c3a-907d-c06ddccfc629
+- **Notes**: Archive contains full Letta docs as passages (one page = one passage)
