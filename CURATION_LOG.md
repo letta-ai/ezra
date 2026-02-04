@@ -54,3 +54,4 @@ Hourly curation activity tracking.
 - **Content**: Guide for searching letta-docs archive efficiently
 - **Archive ID**: archive-51f6e1de-5f46-4c3a-907d-c06ddccfc629
 - **Notes**: Archive contains full Letta docs as passages (one page = one passage)
+- Added 'Avoid tag search' guidance to documentation_search_guide
