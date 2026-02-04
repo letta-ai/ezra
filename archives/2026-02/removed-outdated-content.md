@@ -31,3 +31,21 @@
 - voice_convo_agent (being removed)
 - voice_sleeptime_agent (being removed)
 ```
+
+## Additional cleanup (Feb 4, 2026 21:35 UTC)
+
+### From response_guidelines
+- Removed verbose overconfidence/verification section (~800 chars)
+- Condensed message_buffer_autoclear correction
+- Condensed Companion Agent Template explanation
+
+### From api_integration_patterns
+- Removed legacy SDK line (deprecated routes already sunset)
+- Removed overview video link
+- Condensed ChatCompletions comparison (7 lines → 3)
+
+### From letta_api_patterns
+- Removed duplicate Voice Sleeptime section
+
+### From letta_troubleshooting_tree
+- Removed duplicate Docker Database Configuration section
