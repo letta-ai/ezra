@@ -85,3 +85,8 @@ Current block status (>80%):
 - letta_deployment_modes: 88%
 - knowledge_gaps: 88%
 - response_guidelines: 88%
+
+### Feb 6 18:41 UTC - Continued cleanup
+- tool_use_guidelines: Removed redundant code example (97% → 92%)
+- response_guidelines: Removed duplicate CRITICAL CLARIFICATION (94% → 93%)
+- Dec 13 corrections are legitimately two different corrections (kept both)
