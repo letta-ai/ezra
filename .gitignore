@@ -24,3 +24,7 @@ secrets/
 node_modules/
 dist/
 skills/ezra-monitor/data/
+
+# Local agent config
+.letta/
+.skills/ezra-monitor/data/
