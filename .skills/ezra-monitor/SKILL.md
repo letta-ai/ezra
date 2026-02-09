@@ -36,6 +36,20 @@ Generates proposed memory block updates based on analysis.
 # Outputs: suggested edits to specific memory blocks
 ```
 
+### `scripts/scan-corrections.sh`
+Scans conversations for user/team corrections that need action.
+
+```bash
+./scripts/scan-corrections.sh [agent_id] [num_conversations]
+# Default: ezra-prime, 10 conversations
+# Outputs: corrections.json with HIGH/MEDIUM/NORMAL priority items
+```
+
+Detects:
+- Team corrections (cameron, swooders, pacjam, 4shub) - HIGH priority
+- User corrections ("that's wrong", "actually", etc.)
+- Link shares after responses (user providing sources)
+
 ## Environment
 
 Requires:
